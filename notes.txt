@@ -1,0 +1,22 @@
+Date: 6/10/2004
+Name: Sankua Chao
+Version 1 
+
+NEW FILES:
+register.cpp
+tp1dec.h 	- copied from Document_Processing.h
+sample.ma	- derived from Document_Processing.doc
+sample1.ev	- copied from Document_Processing.doc (p.35 demo1)
+sample2.ev	- copied from Document_Processing.doc (p.36 demo2)
+sample.bat 	
+
+NOTES:
+-Simulate using sample.bat, changing the name of the .ev file as necessary.
+-Output can be seen in sample.log and sample.out .
+
+-Representative results for sample1.ev and sample2.ev are included with the project, 
+and can be seen in sample1/2.log and sample1/2.out .
+
+REMOVED FILES:
+-The Excel files that were included with the original DocumentProcessing project 
+are not included in this fixed version of the model.
